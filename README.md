@@ -2,8 +2,8 @@
 
 # Hand Pose Detection
 
-<img src="docs/hands.gif" alt="hands" />
-<img src="docs/hand-landmarks.jpg" alt="hands" />
+<img src="docs/hands.gif" alt="hands" width="640"/>
+<img src="docs/hand-landmarks.jpg" alt="landmarks" width="640" />
 
 </div>
 
@@ -41,6 +41,6 @@ To see details of training look at the [notebook](train.ipynb) and files of the 
 
 ### Enjoy!
 
-<img src="docs/bros.gif" alt="bros" />
+<img src="docs/bros.gif" alt="bros" width="640"/>
 
 </div>
