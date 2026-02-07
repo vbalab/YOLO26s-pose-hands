@@ -1,0 +1,6 @@
+jupyter
+torch
+torchvision
+ultralytics
+python-dotenv
+comet_ml
