@@ -5,9 +5,13 @@
 <img src="docs/hands.gif" alt="hands" width="640"/>
 <img src="docs/hand-landmarks.jpg" alt="landmarks" width="640" />
 
+<br>
+
 </div>
 
-> Download YOLO26s-pose weights fine-tuned for hand pose detection [here](yolo26s-pose-best.pt).
+## Weights
+
+> [Download](yolo26s-pose-best.pt) YOLO26s-pose fine-tuned for hand pose detection.
 
 ## How to run yourself
 
@@ -29,7 +33,7 @@ Run the webcam test on your machine (_no GPU needed_) with your webcam:
 python webcam_test.py
 ```
 
-Note: Test videos saved to /runs/pose/webcam/<#>.mp4
+Test videos are saved to `/runs/pose/webcam/<#>.mp4`.
 
 ## How it was trained
 
