@@ -1,6 +1,6 @@
 from ultralytics import YOLO
 
-YOLO("yolo26s-pose-best.pt").predict(
+YOLO("yolo26s-pose-hands.pt").predict(
     source=0,
     show=True,
     save=True,
